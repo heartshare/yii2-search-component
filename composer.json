@@ -14,9 +14,6 @@
       "homepage": "https://github.com/himiklab/"
     }
   ],
-  "archive": {
-    "exclude": ["/module"]
-  },
   "require": {
     "yiisoft/yii2": "*",
     "zendframework/zendsearch": "*"
